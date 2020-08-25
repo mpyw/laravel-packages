@@ -25,7 +25,7 @@ Convert `has()` and `whereHas()` constraints to non-dependent subqueries.
 
 ### [mpyw/eloquent-has-by-join](https://github.com/mpyw/eloquent-has-by-join)
 
-Convert `has()` and `whereHas()` constraints to join() ones for single-result relations.
+Convert `has()` and `whereHas()` constraints to `join()` ones for single-result relations.
 
 ### [mpyw/compoships-eager-limit](https://github.com/mpyw/compoships-eager-limit)
 
