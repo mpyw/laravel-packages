@@ -43,6 +43,12 @@ Temporarily enable/disable `PDO` prepared statement emulation.
 
 A tiny macro that reuse a global scope class as a local scope.
 
+## Pagination
+
+### [lampager/lampager-laravel](https://github.com/lampager/lampager-laravel) :fire:
+
+Rapid pagination for Laravel.
+
 ## Validation
 
 ### [mpyw/laravel-file-errors](https://github.com/mpyw/laravel-file-errors)
