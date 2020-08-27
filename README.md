@@ -43,11 +43,17 @@ Temporarily enable/disable `PDO` prepared statement emulation.
 
 A tiny macro that reuse a global scope class as a local scope.
 
+### [mpyw/laravel-database-mock](https://github.com/mpyw/laravel-database-mock)
+
+**[Experimental]** Database Mocking Library which mocks PDO underlying Laravel Connection classes.  
+(Using [mpyw/mockery-pdo](https://github.com/mpyw/mockery-pdo))
+
 ## Pagination
 
 ### [lampager/lampager-laravel](https://github.com/lampager/lampager-laravel) :fire:
 
-Rapid pagination for Laravel.
+Rapid pagination for Laravel.  
+(Using [lampager/lampager](https://github.com/lampager/lampager))
 
 ## Validation
 
