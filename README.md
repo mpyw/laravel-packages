@@ -50,7 +50,7 @@ A tiny macro that reuse a global scope class as a local scope.
 
 ## Pagination
 
-### [lampager/lampager-laravel](https://github.com/lampager/lampager-laravel) :fire:
+### [lampager/lampager-laravel](https://github.com/lampager/lampager-laravel)
 
 Rapid pagination for Laravel.  
 (Using [lampager/lampager](https://github.com/lampager/lampager))
