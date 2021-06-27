@@ -60,3 +60,9 @@ Rapid pagination for Laravel.
 ### [mpyw/laravel-file-errors](https://github.com/mpyw/laravel-file-errors)
 
 A tiny extension that reports validation error details about uploaded files.
+
+## Console
+
+### [mpyw/streamable-console](https://github.com/mpyw/streamable-console)
+
+Call interactive artisan command using arbitrary stream instead of `STDIN`.
