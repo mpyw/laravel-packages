@@ -27,6 +27,10 @@ Convert `has()` and `whereHas()` constraints to non-dependent subqueries.
 
 Convert `has()` and `whereHas()` constraints to `join()` ones for single-result relations.
 
+### [mpyw/laravel-retry-on-duplicate-key](https://github.com/mpyw/laravel-retry-on-duplicate-key)
+
+Automatically retry **non-atomic** upsert operation when unique key constraints are violated.
+
 ### [mpyw/compoships-eager-limit](https://github.com/mpyw/compoships-eager-limit)
 
 [topclaudy/compoships](https://github.com/topclaudy/compoships) + [staudenmeir/eloquent-eager-limit](https://github.com/staudenmeir/eloquent-eager-limit)
