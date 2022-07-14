@@ -15,6 +15,10 @@ Null Guard for Laravel. Designed for Middleware-based authentication and testing
 
 ## Database
 
+### [mpyw/laravel-database-advisory-lock](https://github.com/mpyw/laravel-database-advisory-lock) :fire:
+
+Advisory Locking Features for Postgres/MySQL on Laravel.
+
 ### [mpyw/laravel-cached-database-stickiness](https://github.com/mpyw/laravel-cached-database-stickiness) :fire:
 
 Guarantee database stickiness over the same user's consecutive requests.
