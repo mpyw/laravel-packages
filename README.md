@@ -19,17 +19,9 @@ Null Guard for Laravel. Designed for Middleware-based authentication and testing
 
 Advisory Locking Features for Postgres/MySQL/MariaDB on Laravel.
 
-### [mpyw/laravel-cached-database-stickiness](https://github.com/mpyw/laravel-cached-database-stickiness) :fire:
+### [mpyw/laravel-cached-database-stickiness](https://github.com/mpyw/laravel-cached-database-stickiness)
 
 Guarantee database stickiness over the same user's consecutive requests.
-
-### [mpyw/eloquent-has-by-non-dependent-subquery](https://github.com/mpyw/eloquent-has-by-non-dependent-subquery) :fire:
-
-Convert `has()` and `whereHas()` constraints to non-dependent subqueries.
-
-### [mpyw/eloquent-has-by-join](https://github.com/mpyw/eloquent-has-by-join)
-
-Convert `has()` and `whereHas()` constraints to `join()` ones for single-result relations.
 
 ### [mpyw/laravel-retry-on-duplicate-key](https://github.com/mpyw/laravel-retry-on-duplicate-key)
 
