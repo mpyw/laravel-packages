@@ -23,10 +23,6 @@ Advisory Locking Features for Postgres/MySQL/MariaDB on Laravel.
 
 Guarantee database stickiness over the same user's consecutive requests.
 
-### [mpyw/compoships-eager-limit](https://github.com/mpyw/compoships-eager-limit)
-
-[topclaudy/compoships](https://github.com/topclaudy/compoships) + [staudenmeir/eloquent-eager-limit](https://github.com/staudenmeir/eloquent-eager-limit)
-
 ### [mpyw/laravel-mysql-system-variable-manager](https://github.com/mpyw/laravel-mysql-system-variable-manager)
 
 A tiny extension of `MySqlConnection` that manages session system variables.
